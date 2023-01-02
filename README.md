@@ -3,8 +3,8 @@
 - 📚 Curently, I'm studying Computer Science in University of Évora 
 
 # Languages
-<img src="imgs/java.png" alt="java" width="35px">
-<img src="imgs/c.png" alt="c" width="35px">
+<img src="imgs/java.png" alt="java" width="35px" style="display:inline">
+<img src="imgs/c.png" alt="c" width="35px"  style="display:inline">
 <img src="imgs/css.png" alt="css" width="35px">
 <img src="imgs/html.png" alt="html" width="35px">
 <img src="imgs/python.png" alt="py" width="35px">
