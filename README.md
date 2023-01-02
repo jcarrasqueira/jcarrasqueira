@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @jcarrasqueira
+- 📚 Curently, I'm studying Computer Science in University of Évora 
