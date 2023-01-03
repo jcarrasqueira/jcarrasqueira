@@ -4,6 +4,7 @@
 
 # About me
 - 👋 Hi, I’m @jcarrasqueira
+- 👀 I'm interested in Java, JavaScript, ...
 - 📚 Curently, I'm studying Computer Science in University of Évora 
 
 # Languages
