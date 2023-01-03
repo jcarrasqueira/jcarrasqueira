@@ -9,8 +9,8 @@
 # Languages
 ![Languages](https://skills.thijs.gg/icons?i=c,java,py,js,html,css,postgres,svg,markdown,latex)
 
-# Tools
-![Ides](https://skills.thijs.gg/icons?i=idea,vscode,linux,github)
+# Tools and frameworks
+![Ides](https://skills.thijs.gg/icons?i=idea,vscode,linux,github,spring)
 
 # Stats
 <picture>
