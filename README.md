@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500"/>
+</div>
+
 # About me
 - 👋 Hi, I’m @jcarrasqueira
 - 📚 Curently, I'm studying Computer Science in University of Évora 
