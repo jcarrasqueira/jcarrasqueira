@@ -13,7 +13,7 @@
 # Tools and frameworks
 ![Ides](https://skills.thijs.gg/icons?i=idea,vscode,linux,github,spring)
 
-# Stats
+<!-- # Stats
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=jcarrasqueira&show_icons=true&theme=github_dark"
@@ -25,3 +25,4 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=jcarrasqueira&show_icons=true" />
 </picture>
+-->
