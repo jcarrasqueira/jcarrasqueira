@@ -14,15 +14,5 @@
 ![Ides](https://skills.thijs.gg/icons?i=idea,vscode,linux,github,spring)
 
 # Stats
-<picture>
-<source 
-  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jcarrasqueira&show_icons=true&theme=github_dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=jcarrasqueira&show_icons=true"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jcarrasqueira&show_icons=true" />
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jcondeco207&count_private=true&show_icons=true&theme=tokyonight)
 
