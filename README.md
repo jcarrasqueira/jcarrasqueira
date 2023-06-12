@@ -8,10 +8,10 @@
 - 📚 Curently, I'm studying Computer Science in University of Évora 
 
 # Languages
-![Languages](https://skills.thijs.gg/icons?i=c,java,py,js,html,css,postgres,svg,markdown,latex,kotlin)
+![Languages](https://skills.thijs.gg/icons?i=c,c#,java,py,js,html,css,postgres,svg,markdown,latex,kotlin)
 
 # Tools and frameworks
-![Ides](https://skills.thijs.gg/icons?i=idea,vscode,linux,github,spring)
+![Ides](https://skills.thijs.gg/icons?i=idea,vscode,postman,linux,git,maven,gradle,spring,dotnet)
 
 # Stats
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jcondeco207&count_private=true&show_icons=true&theme=tokyonight)
