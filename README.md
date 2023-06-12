@@ -8,7 +8,7 @@
 - 📚 Curently, I'm studying Computer Science in University of Évora 
 
 # Languages
-![Languages](https://skills.thijs.gg/icons?i=c,cs,java,py,js,html,css,postgres,svg,markdown,latex,kotlin)
+![Languages](https://skills.thijs.gg/icons?i=c,cs,java,py,js,html,css,kotlin,postgres,markdown,latex)
 
 # Tools and frameworks
 ![Ides](https://skills.thijs.gg/icons?i=idea,vscode,linux,postman,git,maven,gradle,spring,dotnet)
