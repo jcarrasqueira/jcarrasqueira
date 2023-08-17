@@ -14,6 +14,7 @@
 
 ----
 ✉️ joanarcarrasqueira02@gmail.com
+
 📞 +351 969520602 
 
 # Languages
