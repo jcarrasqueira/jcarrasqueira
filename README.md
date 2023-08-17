@@ -11,8 +11,10 @@
 - 👀 I'm interested in Java, Javascript, Full-Stack Development, Mobile and Game Development.
 - 📚 When i can i just enjoy reading a good book, listening to music, drawing.
 - 💬 Contact me via email or text message.
-    ✉️ joanarcarrasqueira02@gmail.com
-    📞 +351 969520602 
+
+----
+✉️ joanarcarrasqueira02@gmail.com
+📞 +351 969520602 
 
 # Languages
 ![Languages](https://skills.thijs.gg/icons?i=c,cs,java,py,js,html,css,kotlin,postgres,markdown)
