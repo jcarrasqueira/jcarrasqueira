@@ -11,7 +11,7 @@
 - 👀 I'm interested in Java, Javascript, Full-Stack Development, Mobile and Game Development.
 - 📚 When i can i just enjoy reading a good book, listening to music, drawing.
 
-# 💬 Contacts
+# Contacts
 - ✉️ joanarcarrasqueira02@gmail.com
 - 📞 +351 969520602 
 
