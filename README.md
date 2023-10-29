@@ -7,7 +7,7 @@
 - 🇵🇹 Borned and raised in Portugal, living in Évora.
 - 🎓 I have a Bachelor's Degree in Computer Sciences Engineering.
 - 💡 Always curious to learn more, not only in the tech industry.
-- 💭 Currently learning more about Python and its framework Django...
+- 💭 Currently learning more about Python...
 - 👀 I'm interested in Java, Javascript, Full-Stack Development, Mobile and Game Development.
 - 📚 When i can i just enjoy reading a good book, listening to music, drawing.
 
