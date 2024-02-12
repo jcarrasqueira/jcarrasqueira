@@ -22,5 +22,5 @@
 ![Ides](https://skills.thijs.gg/icons?i=idea,vscode,linux,postman,git,maven,gradle,spring,dotnet)
 
 # Stats
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jcondeco207&count_private=true&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jcarrasqueira&count_private=true&show_icons=true&theme=tokyonight)
 
