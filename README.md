@@ -19,7 +19,7 @@
 ![Languages](https://skills.thijs.gg/icons?i=c,cs,java,py,js,html,css,kotlin,postgres,markdown)
 
 # Tools and frameworks
-![tools](https://skills.thijs.gg/icons?i=linux,postman,git,maven,gradle,django,fastapi,spring,dotnet,bootstrap)
+![tools](https://skills.thijs.gg/icons?i=linux,postman,git,maven,gradle,django,spring,androidstudio,fastapi,docker,dotnet,bootstrap)
 
 # Stats
 ![Jc's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jcarrasqueira&count_private=true&show_icons=true&theme=tokyonight)
