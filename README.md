@@ -13,7 +13,6 @@
 
 # Contacts
 - ✉️ joanarcarrasqueira02@gmail.com
-- 📞 +351 969520602 
 
 # Languages
 ![Languages](https://skills.thijs.gg/icons?i=c,cs,java,py,js,html,css,kotlin,postgres,markdown)
