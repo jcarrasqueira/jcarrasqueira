@@ -15,10 +15,11 @@
 - ✉️ joanarcarrasqueira02@gmail.com
 
 # Languages
-![Languages](https://skills.thijs.gg/icons?i=c,cs,java,py,js,html,css,kotlin,postgres,markdown)
+
+[![Languages](https://skillicons.dev/icons?i=c,cs,py,java,kotlin,js,postgres,markdown&theme=dark)](https://skillicons.dev)
 
 # Tools and frameworks
-![tools](https://skills.thijs.gg/icons?i=linux,postman,git,maven,gradle,django,spring,androidstudio,fastapi,docker,dotnet,bootstrap)
+[![Tools](https://skillicons.dev/icons?i=linux,postman,git,maven,gradle,django,spring,androidstudio,fastapi,docker,bootstrap&theme=dark)](https://skillicons.dev)
 
 # Stats
 ![Jc's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jcarrasqueira&count_private=true&show_icons=true&theme=tokyonight)
